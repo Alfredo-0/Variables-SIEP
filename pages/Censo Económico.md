@@ -2,6 +2,7 @@
 collapsed:: true
 ![CE cuestionario Básico Establecimientos.pdf](../assets/CE_cuestionariobasico_estable.pdf)
 ![CE Cuestionario Vendedores Calle.pdf](../assets/CE_cuestionariovendedores_calle.pdf)
+![PlanGeneral CENU.pdf](../assets/PlanGeneral_CENU_1714417394656_0.pdf)
 	- **Preguntas cuestionario CENU**
 		- Cuestionario Básico a Establecimientos:
 			- ((662f405c-6d06-4df4-8a7b-dfd5d7c82f15))
@@ -45,6 +46,12 @@ collapsed:: true
 			- ((662f4354-d75b-494c-9f53-2f5261241a85))
 			  #Asociatividad
 	- **Indicadores CENU**
+	  ((662fefa2-99f1-4d4c-8603-9661dc841196))
+	  ((662fefd3-6846-418d-acb2-fb27abdaaa97)) (empresa, establecimiento fijo, semifijo, vivienda con actividad económica, vendedor de calle)
+	- ((662ff019-9cac-47b7-98bf-d5060bb7f801))
+	-
+	-
+	-
 	-
 	-
 -
