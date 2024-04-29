@@ -9,6 +9,4 @@
 		- [[Censo Económico]]
 	- Cuentas Satélite
 		- [[Economía del Cuidado]]
-- Indicadores relevantes
-	- [[IPM]]
-	-
+-

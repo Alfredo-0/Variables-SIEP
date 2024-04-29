@@ -1,0 +1,5 @@
+- [[Asalariados]]
+- [[Independientes]]
+- [[Total Ocupados]]
+- [[Calidad]]
+-

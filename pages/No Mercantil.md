@@ -1,0 +1,3 @@
+- Corresponde a personas que realizan actividades del voluntariado o que se encuentran en entidades sin ánimo de lucro ...
+- {{query (and [[No Mercantil]] (or (page [[Censo Económico]]) [[GEIH]]))}}
+  query-table:: true

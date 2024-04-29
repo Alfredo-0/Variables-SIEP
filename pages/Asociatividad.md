@@ -1,0 +1,3 @@
+- Preguntas que hacen referencia a estrategias de carácter colectivo que permiten alcanzar objetivos comunes ...
+- {{query (and [[Asociatividad]] (or (page [[Censo Económico]]) [[GEIH]]))}}
+  query-table:: true

@@ -1,0 +1,3 @@
+- Que hace una contraposición efectiva a la acumulación de capital … procesos que promueven la calidad de vida o cierta sostenibilidad de la vida dentro del sistema capitalista …
+- {{query (and [[Reproducción Ampliada de la vida]] (or (page [[Censo Económico]]) [[GEIH]]))}}
+  query-table:: true
