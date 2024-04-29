@@ -76,3 +76,8 @@ file-path:: ../assets/CE_cuestionariovendedores_calle.pdf
   hl-page:: 8
   hl-color:: yellow
   id:: 662f43a6-126c-40d5-992f-bddf59ff1643
+- 467 Pase al Módulo IX. Pase al Módulo IX. Pase al Módulo IX. Pase al Módulo IX. Pase al Módulo IX. Pase al Módulo IX. Pase a la pregunta 11.1. Si contesta “Sí” en alguna
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 662fe559-5adb-4e32-8a94-f6cc212822db

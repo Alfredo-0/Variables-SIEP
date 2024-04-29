@@ -69,3 +69,8 @@ file-path:: ../assets/CE_cuestionariobasico_estable.pdf
   hl-page:: 8
   hl-color:: green
   id:: 662f41f9-389f-4dfd-9a98-07f4c3c4c0f4
+- oviene d
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 662fe357-b012-44b1-9407-f7f7f34c1ba8
