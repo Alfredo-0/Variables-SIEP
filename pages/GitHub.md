@@ -1,0 +1,4 @@
+- Instalar Git en mi computadora
+- Crear cuenta en GitHub
+	- Crear repositorio para subir mis archivo
+-
