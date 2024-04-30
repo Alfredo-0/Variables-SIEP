@@ -1,4 +1,5 @@
 # Censo Económico Nacional Urbano
+collapsed:: true
 	- **Cuestionarios**
 	  ![CE cuestionario Básico Establecimientos.pdf](../assets/CE_cuestionariobasico_estable.pdf)  
 	  ![CE Cuestionario Vendedores Calle.pdf](../assets/CE_cuestionariovendedores_calle.pdf)
