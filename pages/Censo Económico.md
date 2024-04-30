@@ -3,6 +3,7 @@ collapsed:: true
 ![CE cuestionario Básico Establecimientos.pdf](../assets/CE_cuestionariobasico_estable.pdf)
 ![CE Cuestionario Vendedores Calle.pdf](../assets/CE_cuestionariovendedores_calle.pdf)
 ![PlanGeneral CENU.pdf](../assets/PlanGeneral_CENU_1714417394656_0.pdf)
+![Plan General - Censo Económico-02082023.pdf](../assets/Plan_General_-_Censo_Económico-02082023_1714424439479_0.pdf) (Versión anterior)
 	- **Preguntas cuestionario CENU**
 		- Cuestionario Básico a Establecimientos:
 			- ((662f405c-6d06-4df4-8a7b-dfd5d7c82f15))
@@ -59,7 +60,11 @@ collapsed:: true
 	  #Organizaciones_sociales
 	- ((662ff324-fa84-4a1f-9145-41a7d6e254dc))
 	  ((662ff4f5-8247-41f8-bef5-392f93abb6b7))
-	  #Informalidad
+	  ((66300b11-4e0f-4a1a-849a-2c2d3447fd71))
+	  ((66300b2b-1751-46e8-9cfa-07e4df75403b))
+	  ((66300b46-9261-40e4-9599-38630d868f2a))
+	  ((66300b74-1b83-47e2-8ffd-e54d06f4179a))
+	- #Informalidad
 	-
 	-
 	-
