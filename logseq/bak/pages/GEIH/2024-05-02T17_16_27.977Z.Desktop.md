@@ -3,6 +3,8 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 
 ![metodologia_GEIH-01_V9.pdf](../assets/metodologia_GEIH-01_V9_1714425419043_0.pdf)
 ![metodologia_informalidad GEIH.pdf](../assets/metodologia_informalidad_GEIH_1714426289886_0.pdf)
+![bol-GEIHPFFL-dic2023-feb2024 Fuera del mercado laboral.pdf](../assets/bol-GEIHPFFL-dic2023-feb2024_Fuera_del_mercado_laboral_1714503491858_0.pdf)
+![bol-GEIHFLE-2022 Logro Educativo.pdf](../assets/bol-GEIHFLE-2022_Logro_Educativo_1714513965746_0.pdf)
 	- ## Características generales, seguridad social en salud y educación. 
 	  id:: 662f0e49-1aae-4542-bf21-d8864b2ca916
 	  Hace referencia a información básica acerca del tamaño y estructura de la fuerza de trabajo.
@@ -83,14 +85,27 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 	-
 - **INDICADORES GEIH**
 	- ((66300f22-d15a-4f36-bae4-9ffe96746f74))(Población en edad de trabajar)
+	  id:: 663117e6-3701-4bb9-8361-1d3edcfd4901
 	  ((66300f42-9d28-4e7a-9bf9-8ce8d9badf85))
 	  ((66300f87-56cc-4c17-a974-99110923ad0a))
 	  ((66300fa6-98ee-47fa-97b8-1f2c8a14b980))
 	  ((66301019-5e17-47a8-baa7-8dd75e1a1308))
 	  ((66301044-5c3b-4e35-899c-764129935f4a)) (Se clasifica en insuficiencia de horas, competencias o por ingresos)
+	  **Nota:** Estas estadísticas se producen para poblaciones especiales como campesina, migrantes, discapacidad, LGTB, jóvenes 
 	  #Mercantil
 	- ((663011e0-2758-4003-b3c1-5ee9f9e50dc5))
 	  ((663011f2-7f26-42d1-9bf9-8996dfafd603))
 	  ((66301216-93bf-4a4c-9799-6c75cc9beb1e))
 	  #Informalidad
+	- ((66313f8a-b0bd-4945-b359-f9f936af0d81))
+	  ((66313fb2-4eb6-437a-a2f8-0d436325d188))
+	  ((66313fc2-295f-4006-af0e-da2fcbda1fe1))
+	  #[[No Mercantil]]
+	- ((66316849-fd20-435a-af08-74bfa252e4cb))
+	  ((66316863-2d3e-4331-9282-1439999ffbc6))
+	  ((66316915-98bb-44a7-b3ee-3e79b6c80f01))
+	  ((66316947-67f2-4da8-aeda-741517ac7784))
+	  ((6631696c-62c7-4133-8197-987f1fc5ef5b))
+	  #[[Logro educativo]]
+-
 -
