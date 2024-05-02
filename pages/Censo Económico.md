@@ -1,5 +1,4 @@
 # Censo Económico Nacional Urbano 
-collapsed:: true
 ![CE cuestionario Básico Establecimientos.pdf](../assets/CE_cuestionariobasico_estable.pdf)
 ![CE Cuestionario Vendedores Calle.pdf](../assets/CE_cuestionariovendedores_calle.pdf)
 ![PlanGeneral CENU.pdf](../assets/PlanGeneral_CENU_1714417394656_0.pdf)
@@ -76,6 +75,6 @@ collapsed:: true
 -
 -
 -
--
+- collapsed:: true
 	-
 	-
