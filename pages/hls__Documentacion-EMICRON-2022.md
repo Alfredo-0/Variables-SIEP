@@ -351,3 +351,138 @@ file-path:: ../assets/Documentacion-EMICRON-2022.pdf
   hl-page:: 45
   hl-color:: blue
   id:: 6632eeca-17fb-4ede-920a-61422e651511
+- Cuáles formas de pago acepta en su negocio?
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: green
+  id:: 6632f2e4-1147-4d8b-ab4a-bd78de9e9e42
+- En el año anterior ¿solicitó algún crédito o préstamo para la gestión de su negocio o actividad económica?
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: green
+  id:: 6632f36a-5836-47d4-8a40-761f2d2fecbe
+- ¿Por qué no ha solicitado algún crédito o préstamo
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: green
+  id:: 6632f378-3a68-4742-b033-0a36e61c75ba
+- quién solicitó el préstamo?
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 6632f386-19ec-43e5-877d-a21b32ab269f
+- Obtuvo el crédito o préstamo solicitado?
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 6632f3b6-a749-4ab2-b2c9-5e707ad2c3df
+- ¿Por qué no lo obtuvo?
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 6632f3c0-9652-4f1f-8b4a-4af143806bca
+- Porcentaje invertido en el negocio
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 6632f41c-24a7-44b8-b1b4-8325d9b0beba
+- Porcentaje para cubrir gastos personales u otros
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 6632f428-abfb-445a-ae9d-b776d96c2e10
+- El dinero destinado al negocio lo gastó en?
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 6632f432-e368-4dce-8c65-7a9e5ea60f97
+- En el año anterior ¿Ahorró dinero de su negocio o actividad ?
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: red
+  id:: 6632f570-53b6-48d1-a249-4445a1a730b5
+- ¿En qué va a usar o usó el dinero que ahorró?
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: red
+  id:: 6632f58e-3119-4f1a-890d-e88c9a5e6582
+- ¿En dónde ahorró?
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: red
+  id:: 6632f59f-7369-47f3-b4ab-beac2000ac06
+- El negocio o actividad económica pertenece a alguna asociación de productores y/o comerciantes?
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: blue
+  id:: 6632f5b6-1a72-4db4-ba70-ed61ed7cafb8
+- ¿Qué servicios recibe de esta asociación de productores y/o comerciantes?
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: blue
+  id:: 6632f5c4-bb0f-46d4-85e0-d5768bc361ee
+- ¿El negocio o actividad económica pertenece a alguna Cooperativa?
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: blue
+  id:: 6632f61a-1abd-4025-9067-ee86f0687b3c
+- Qué servicios recibe de esta Cooperativa?
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: blue
+  id:: 6632f61f-a66d-45a1-a0d2-fe187fef212f
+- ¿El negocio o actividad económica pertenece a alguna junta de acción Comunal?
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: blue
+  id:: 6632f65e-b6c6-4dd0-801c-ab8f0ac203c8
+- Qué servicios recibe de esta junta de acción Comunal?
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: blue
+  id:: 6632f675-cabd-41ae-abac-a18f131c839c
+- El negocio o actividad económica pertenece a alguna Veeduria ciudadana?
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: blue
+  id:: 6632f6a5-c5ce-4fe7-a244-dcfd836257fb
+- ¿Qué servicios recibe de esta Veeduria ciudadana?
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: blue
+  id:: 6632f6b1-486d-452a-bbe5-bf90f6c44320
+- ¿El negocio o actividad económica pertenece a algun Grupo ambientalista?
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 6632f6cc-3a70-47a3-9419-1f82e9381147
+- ¿Qué servicios recibe de este Grupo ambientalidta
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: red
+  id:: 6632f6e5-b4ff-4382-a09e-70a999c3d29d
+- El negocio o actividad económica pertenece a alguna Organización de población vulnerable?
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: red
+  id:: 6632f706-9797-4880-9274-a4ccd4b6625e
+- Qué servicios recibe de esta Organización de población vulnerable?
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: red
+  id:: 6632f712-f48c-4f10-86ed-6e8040eb8d32
+- ¿El negocio o actividad económica pertenece a alguna otra Organización
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: blue
+  id:: 6632f736-2878-4984-b7c6-414676cdea94
+- ¿Qué servicios recibe de${P3020}
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: blue
+  id:: 6632f743-bee2-4f71-b990-6465d3b2f7d4
+- Cuánto dinero invirtió el negocio o actividad en esta organización el mes pasado?
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: blue
+  id:: 6632f75a-c1f2-441c-8a77-5d1eb1696285

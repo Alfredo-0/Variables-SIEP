@@ -5,6 +5,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 ![metodologia_informalidad GEIH.pdf](../assets/metodologia_informalidad_GEIH_1714426289886_0.pdf)
 	- ## Características generales, seguridad social en salud y educación. 
 	  id:: 662f0e49-1aae-4542-bf21-d8864b2ca916
+	  collapsed:: true
 	  Hace referencia a información básica acerca del tamaño y estructura de la fuerza de trabajo.
 		- ((662f1d0a-721f-4658-9591-67fdcab2ea9e)) 
 		  ((662f222d-e311-4dbd-8efa-909d9437db15))
@@ -16,6 +17,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  #Informalidad
 	- ## Ocupados
 	  id:: 662f0eaf-1856-49f4-8f13-ad49cc459ffa
+	  collapsed:: true
 		- ((662f251a-c2a2-4959-9cd4-ae1290fdf11c))
 		  ((662f2534-c208-46ae-8a04-55bf0390f19a))
 		  ((662f26ab-6ef0-4f1b-94ce-453c6dde7074))
@@ -46,6 +48,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  #Comunidad
 	- ## Fuerza de trabajo
 	  id:: 662f0ebc-04b4-48f4-a7d1-868cc2a5f268
+	  collapsed:: true
 		- ((662f34f6-c037-4fc6-8755-fcebc316683c))
 		  ((662f3525-586b-4bd1-964d-1401482c1e0f))
 		  ((662f3555-9326-411f-af0b-53e1db833257))
@@ -53,12 +56,14 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		- ((662f353b-89df-4dae-90d1-0f2a27090417))
 		  #Comunidad
 	- ## No Ocupados
+	  collapsed:: true
 		- ((662f35a6-ecb4-4de1-85d6-050819b02e6c))
 		  ((662f35b8-2c99-47ef-a1ba-3f03ff758d81))
 		  ((662f35c4-0ffd-4ec8-ae6b-e8604a34e8b7))
 		  ((662f35e3-c5c8-42aa-b69e-0a9ec39586a1))
 		  #Informalidad
 	- ## Otras formas de trabajo
+	  collapsed:: true
 		- ((662f35f8-0344-4b3e-a3d8-79cadd5411e3))
 		  ((662f360c-3bc7-4d2f-a90f-010ba0fd22c4))
 		  ((662f361c-e17d-4dad-92b6-cd3f2bf48b59))
@@ -71,6 +76,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		- ((662f3688-1878-4414-9a56-f3e6f891e622))
 		  #Asociatividad
 	- ## Migración
+	  collapsed:: true
 		- ((662f36a5-1b12-49a6-a6be-3ff0a3774aa4))
 		  ((662f36ba-6b32-43aa-90b8-c1e5f654c328))
 		  ((662f36cf-6bc6-4913-bc07-6f1d710172bc))
@@ -78,6 +84,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  ((662f36fe-2429-4962-8eb4-1ece01f586ac))
 		  #Migración
 	- ## Datos del hogar y la vivienda
+	  collapsed:: true
 		- ((662f3797-048d-44b6-bee6-16a192c72256))
 		  #Comunidad
 	-
