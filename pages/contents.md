@@ -6,13 +6,9 @@
 		- [[ENUT]]
 		- [[ENA]]
 	- Censos
-		- [[Censo Económico Nacional Urbano]]
+		- [[Censo Económico]]
 	- Cuentas Satélite
-		- [[CSEC-Economía del Cuidado]]
-		- [[CSECC-Cultura y Creativa]]
-	- Registros Estadísticos
-		- [[RELAB]]
-		- [[Directorio Estadístico de Empresas (DEE)]]
+		- [[Economía del Cuidado]]
 - Indicadores relevantes
 	- [[IPM]]
 	-
