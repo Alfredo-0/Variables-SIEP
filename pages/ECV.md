@@ -7,4 +7,8 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 			- ((662f9a1f-76a0-471e-b15c-119659d7e245))
 			  #Informalidad
 -
--
+- **INDICADORES**
+  ![bol-ECV-2023.pdf](../assets/bol-ECV-2023_1714613316783_0.pdf)
+	- ((6632ecce-356e-4bc1-942b-82aa2dda74bd))
+	  #[[No Mercantil]]
+	-
