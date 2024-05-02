@@ -331,13 +331,217 @@ file-path:: ../assets/Documentacion-ECV-2023.pdf
   hl-page:: 82
   hl-color:: red
   id:: 66330f49-fd13-4a15-b6a6-489da1cbcd9b
-- Educacion
+- ¿.......Actualmente estudia? (asiste al preescolar, escuela, colegio o universidad)
   ls-type:: annotation
   hl-page:: 85
+  hl-color:: green
+  id:: 6633a4fc-7d98-478a-aeb5-fe97ded2b587
+- Cuál es la razón principal para qué_no estudie?
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: red
+  id:: 6633a508-c933-4393-b11e-60460485884c
+- El establecimiento donde estudia _____es
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: green
+  id:: 6633a51d-10f0-4688-92cc-3b0afacd67d0
+- Este establecimiento está ubicado en:
+  ls-type:: annotation
+  hl-page:: 87
   hl-color:: blue
-  id:: 66330fab-f881-4b13-80ad-562c3558a9f7
-- Fuerza de trabajo
+  id:: 6633a53a-4b78-4892-8765-4a3c4bd02fb1
+- ¿Recibe en el plantel educativo alimentos(desayunos, medias nueves, almuerzos, etc.) en forma gratuita o por un pago simbólico?
+  ls-type:: annotation
+  hl-page:: 87
+  hl-color:: purple
+  id:: 6633a546-18c6-401e-b677-49d25964bdcf
+  hl-stamp:: 1714660822666
+- ¿Sabe leer y escribir?
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: green
+  id:: 6633a58d-41ef-414c-b85e-11d63d3d45c1
+- ¿en que actividad ocupó...... la mayor parte del tiempo la semana pasada?
   ls-type:: annotation
   hl-page:: 93
   hl-color:: blue
-  id:: 66330fd0-45b1-4da8-b1c0-af13677f5b39
+  id:: 6633a613-4e7c-4e35-b3fa-8031ba9fc31f
+- Además de lo anterior,¿.....Realizó la semana pasada alguna actividad paga por una hora o más?
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: blue
+  id:: 6633a61b-17a3-4e31-b0a7-3a4e31894ebb
+- Aunque.... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos?
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: blue
+  id:: 6633a629-8af4-4a96-abd7-a71aa51a1819
+- ¿....trabajó la semana pasada en un negocio por una hora o más sin que le pagaran?
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: purple
+  id:: 6633a636-8077-4675-ae4a-738510249333
+- En las últimas 4 semanas¿.....Hizo alguna diligencia para conseguir un trabajo o instalar un negocio?
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: blue
+  id:: 6633a640-0d25-4a03-ab17-a64b04bd1d1c
+- ¿desea_______conseguir un trabajo remunerado o instalar un negocio?
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: blue
+  id:: 6633a648-d44d-432c-9cbd-ba5a1c21a9f1
+- Después de su último empleo, ¿…..ha hecho alguna diligencia para conseguir trabajo o instalar un negocio?
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: blue
+  id:: 6633a650-f00e-43a2-bba0-f0564c714567
+- ¿A qué actividad se dedica principalmente la empresa o negocio en la que ... realiza su trabajo?
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: blue
+  id:: 6633a66a-f3d0-4ccb-918a-60111d2674a0
+- En este trabajo ... Es
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: blue
+  id:: 6633a676-88af-457f-ba4e-051ca3a8e365
+- ¿Qué tipo de contrato tiene, verbal o escrito?
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: green
+  id:: 6633a6cb-e3cc-4132-b5c5-db403b93284d
+- ¿Para realizar este trabajo tiene ..... algún tipo de contrato?
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: green
+  id:: 6633a6d8-471c-4f6d-837d-3b069192ba93
+- ¿Está aﬁliado (a) por una empresa o individualmente a una Administradora de Riesgos Laborales (ARL) (por accidentes de trabajo, enfermedad profesional etc.)?
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: green
+  id:: 6633a6e2-dfb3-49d2-bc70-9029df898f30
+- ¿cuántos meses lleva trabajando en esta empresa, negocio, industria, oﬁcina,ﬁrma o ﬁnca de manera continua?
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: green
+  id:: 6633a708-cea5-45f3-ade0-79be368ec97f
+- El mes pasado¿_______ recibió subsidio de
+  ls-type:: annotation
+  hl-page:: 96
+  hl-color:: red
+  id:: 6633a72e-a1ee-438f-895d-65e59f3cef76
+- Durante los últimos 12 meses, recibió
+  ls-type:: annotation
+  hl-page:: 96
+  hl-color:: red
+  id:: 6633a9ae-7199-4a0b-862f-837f393a50ec
+- ¿cuántas personas incluido(a) usted, tiene la empresa o negocio donde trabaja?
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: purple
+  id:: 6633a9db-740a-497d-942c-c73cf0b627f4
+- Fundamentalmente, donde realiza usted su trabajo principal:
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: purple
+  id:: 6633a9e9-7242-4666-87ca-c96d16227a27
+- ¿cuál fue la ganancia neta del negocio o de la cosecha durante los últimos 12 meses?
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: purple
+  id:: 6633a9fc-ec94-4270-9432-e250bd64ff1e
+- La empresa, negocio, industria, oﬁcina, ﬁrma oﬁnca donde trabaja está ubicada en:
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: purple
+  id:: 6633aa10-4284-45e5-b81c-53776afe2310
+- ¿cuánto tiempo se demora usted en su viaje de ida al trabajo? (incluya tiempo de espera del medio de transporte)
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: red
+  id:: 6633aa27-7215-4e09-ba96-ffce1606a017
+- ¿cuántas horas a la semana trabaja normalmente ____ en ese trabajo ?
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: red
+  id:: 6633aa3e-03fe-4d97-ae31-f284c1dfb001
+- ¿cuántas horas trabajó durante la semana pasada en este trabajo?
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: red
+  id:: 6633aa42-d020-422e-92d8-cdc0cf90ee8f
+- ¿por qué razón, de las horas que normalmente trabaja, hubo algunas que no trabajó la semana pasada?
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: red
+  id:: 6633aa63-c0a8-4744-8085-eea4760531ca
+- ¿Durante los últimos 12 meses ha trabajado bajo la modalidad de teletrabajo o trabajo en casa?
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: red
+  id:: 6633aa68-1d88-471f-b011-eb2756ee3b32
+- Trabaja como independiente desde su casa
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: red
+  id:: 6633aa8f-c10e-4cf2-b33c-f225a567fcbc
+- Además de su ocupación u oﬁcio principal, ¿.... el mes pasado tuvo otros trabajos o negocios por los cuales recibió ingresos?
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: blue
+  id:: 6633aaa0-4e45-4b79-8e23-75b7e9667c89
+- ¿está... Cotizando actualmente a un fondo de pensiones?
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: green
+  id:: 6633aad1-9516-4c23-a4c2-b071a1560b26
+- El mes pasado _____recibió¿algún ingreso por concepto de pensión de jubilación, sustitución pensional, invalidez o vejez?
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: green
+  id:: 6633aad9-8979-4550-ab5d-756e138b0acb
+- Durante los últimos 12 meses _____recibió ¿primas por pensión de jubilación o por sustitución pensional?
+  ls-type:: annotation
+  hl-page:: 100
+  hl-color:: green
+  id:: 6633aae0-7d57-4551-9c91-81fc12e27eea
+- Durante los últimos 12 meses _____recibió ¿algún ingreso por concepto de ayudas en dinero proveniente de otros hogares o instituciones?(padres, hijos, familiares, amigos)
+  ls-type:: annotation
+  hl-page:: 100
+  hl-color:: yellow
+  id:: 6633ab6e-7a97-414d-9802-6068733f68c1
+  hl-stamp:: 1714662257012
+- Realizar oﬁcios en su hogar? 
+  ls-type:: annotation
+  hl-page:: 101
+  hl-color:: yellow
+  id:: 6633ab8b-ff8d-4041-ba8f-09eb55822b27
+- ¿cuántas horas a la semana?
+  ls-type:: annotation
+  hl-page:: 101
+  hl-color:: yellow
+  id:: 6633ab99-4ce3-4a3c-a12f-30776c21dfda
+- Llamadas laborales?
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: blue
+  id:: 6633aca7-5a00-4741-b420-6f54e0943034
+  hl-stamp:: 1714662570266
+- Venta de minutos? 
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: green
+  id:: 6633acb5-733e-4975-9ba1-7e8767b74c6f
+- Información de interés comunitario
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: yellow
+  id:: 6633ace2-aee4-40a5-9218-cab1b5ad434c
+  hl-stamp:: 1714662628902
+- Educación y aprendizaje
+  ls-type:: annotation
+  hl-page:: 114
+  hl-color:: yellow
+  id:: 6633acf3-6bb8-465b-8f9c-403736d688c7

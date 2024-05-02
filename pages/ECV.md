@@ -85,12 +85,53 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		- ((66330f49-fd13-4a15-b6a6-489da1cbcd9b)) leer, contarle cuentos, cantar, realizar actividades artísticas, tocar música, realizar juegos, salir al parque, ver tv, hacer una actividad deportiva, juegos con dispositivos electrónicos, otras.
 		- #[[Reproducción Ampliada de la vida]]
 	- **Educación**
-		- ((66330fab-f881-4b13-80ad-562c3558a9f7)) #[[No Mercantil]]
+		- ((6633a546-18c6-401e-b677-49d25964bdcf))
+		   #[[No Mercantil]]
+		- ((6633a58d-41ef-414c-b85e-11d63d3d45c1))
+		  ((6633a4fc-7d98-478a-aeb5-fe97ded2b587))
+		  ((6633a51d-10f0-4688-92cc-3b0afacd67d0))
+		  #Informalidad
+		- ((6633a508-c933-4393-b11e-60460485884c))
+		  #[[Reproducción Ampliada de la vida]]
+		- ((6633a53a-4b78-4892-8765-4a3c4bd02fb1))
+		  #Comunidad
 	- **Fuerza de trabajo**
-		- ((66330fd0-45b1-4da8-b1c0-af13677f5b39)) #Mercantil
-	- **Variables diseño muestral**
-		-
-	- **Desperdicio de Alimentos**
+		- ((6633a613-4e7c-4e35-b3fa-8031ba9fc31f))
+		  ((6633a61b-17a3-4e31-b0a7-3a4e31894ebb))
+		  ((6633a629-8af4-4a96-abd7-a71aa51a1819))
+		  ((6633a640-0d25-4a03-ab17-a64b04bd1d1c))
+		  ((6633a648-d44d-432c-9cbd-ba5a1c21a9f1))
+		  ((6633a650-f00e-43a2-bba0-f0564c714567))
+		  ((6633a66a-f3d0-4ccb-918a-60111d2674a0))
+		  ((6633a676-88af-457f-ba4e-051ca3a8e365))
+		  ((6633aaa0-4e45-4b79-8e23-75b7e9667c89))
+		  #Mercantil
+		- ((6633a6d8-471c-4f6d-837d-3b069192ba93))
+		  ((6633a6cb-e3cc-4132-b5c5-db403b93284d))
+		  ((6633a6e2-dfb3-49d2-bc70-9029df898f30))
+		  ((6633a708-cea5-45f3-ade0-79be368ec97f))
+		  ((6633aad1-9516-4c23-a4c2-b071a1560b26))
+		  ((6633aad9-8979-4550-ab5d-756e138b0acb))
+		  ((6633aae0-7d57-4551-9c91-81fc12e27eea))
+		  #Informalidad
+		- ((6633a72e-a1ee-438f-895d-65e59f3cef76)) alimentación, auxilio de transporte, subsidio familiar, primas
+		  ((6633a9ae-7199-4a0b-862f-837f393a50ec)) prima de servicios, prima de navidad, prima de vacaciones, bonificaciones
+		  ((6633aa27-7215-4e09-ba96-ffce1606a017))
+		  ((6633aa3e-03fe-4d97-ae31-f284c1dfb001))
+		  ((6633aa42-d020-422e-92d8-cdc0cf90ee8f))
+		  ((6633aa63-c0a8-4744-8085-eea4760531ca))
+		  ((6633aa68-1d88-471f-b011-eb2756ee3b32))
+		  ((6633aa8f-c10e-4cf2-b33c-f225a567fcbc))
+		  #[[Reproducción Ampliada de la vida]]
+		- ((6633a9fc-ec94-4270-9432-e250bd64ff1e))
+		  ((6633a9db-740a-497d-942c-c73cf0b627f4))
+		  ((6633a9e9-7242-4666-87ca-c96d16227a27))
+		  ((6633aa10-4284-45e5-b81c-53776afe2310))
+		  #[[Baja Escala]
+		- ((6633ab6e-7a97-414d-9802-6068733f68c1))
+		  ((6633ab8b-ff8d-4041-ba8f-09eb55822b27))
+		  ((6633ab99-4ce3-4a3c-a12f-30776c21dfda))
+		  #Comunidad #[[No Mercantil]]
 		-
 	- **Tecnologías de información y comunicación**
 		- Para cuales de los siguientes servicios o actividades utiliza ____ internet:
@@ -98,5 +139,12 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 			  #[[Reproducción Ampliada de la vida]]
 			- ((662f9a1f-76a0-471e-b15c-119659d7e245))
 			  #Informalidad
--
--
+		- Para cuál de las siguientes actividades utiliza … el teléfono celular
+			- ((6633aca7-5a00-4741-b420-6f54e0943034))
+			  #Mercantil
+			- ((6633acb5-733e-4975-9ba1-7e8767b74c6f))
+			  #Informalidad
+		- Para cuáles de los siguientes servicios o actividades escucha ..... la señal de radio
+			- ((6633ace2-aee4-40a5-9218-cab1b5ad434c))
+			  ((6633acf3-6bb8-465b-8f9c-403736d688c7))
+			  #Comunidad
