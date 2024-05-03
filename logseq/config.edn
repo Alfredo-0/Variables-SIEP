@@ -421,4 +421,9 @@
  :file/name-format :triple-lowbar
  :graph/forcesettings {:link-dist 170
  :charge-strength -600}
- :graph/settings {:excluded-pages? true}}
+ :graph/settings {:excluded-pages? true}
+ :publishing/all-pages-public? true
+ :feature/enable-journals? false
+ :default-home {:page "Contents"}
+ :feature/enable-whiteboards? false
+ :feature/enable-flashcards? false}

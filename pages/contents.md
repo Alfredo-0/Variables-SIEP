@@ -1,18 +1,15 @@
-- Operaciones Estadísticas
-	- Encuestas
+### Operaciones Estadísticas
+	- **Encuestas**
 		- [[GEIH]]
 		- [[EMICRON]]
 		- [[ECV]]
 		- [[ENUT]]
 		- [[ENA]]
-	- Censos
+	- **Censos**
 		- [[Censo Económico Nacional Urbano]]
-	- Cuentas Satélite
+	- **Cuentas Satélite**
 		- [[CSEC-Economía del Cuidado]]
 		- [[CSECC-Cultura y Creativa]]
-	- Registros Estadísticos
+	- **Registros Estadísticos**
 		- [[RELAB]]
 		- [[Directorio Estadístico de Empresas (DEE)]]
-- Indicadores relevantes
-	- [[IPM]]
-	-
