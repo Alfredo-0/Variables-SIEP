@@ -2,10 +2,26 @@
 ![boletin_ena_2019.pdf](../assets/boletin_ena_2019_1714603062842_0.pdf) Boletín ENA 2019
 ![met-ENA-mar2023.pdf](../assets/met-ENA-mar2023_1714606822822_0.pdf)
 - ### Preguntas Cuestionario
-  collapsed:: true
 	- **Cosechas**
+		- ((66357796-664f-414c-92b8-2fcfd2e3fcf5))
+		  #[[Reproducción Ampliada de la vida]] #Autoconsumo
+		- ((6635779d-15e9-4715-976f-58adb9bb8e5a))
+		  ((663577a2-6b1a-46fd-adee-e48e60073b84))
+		  ((663577a7-0bad-4ed4-be0e-d35ea06ebfcd))
+		  ((663577bc-7529-4c46-a41e-b3e31cb6a85d))
+		  #Mercantil
+		- ((663577cd-c2a8-49f0-af4f-5e3a0040f8dd))
+		  #Comunidad
 	- **Cultivos**
+		- ((66357847-5bf8-43f9-b850-508a24999008))
+		  #Informalidad
+		- ((663578c5-4645-411b-846a-9ce7773d5f04))
+		  ((663578f4-9275-4e3c-8e5c-21df0688ad7b))
+		  #Mercantil
+		- ((66357909-da43-4272-be39-5b3091f6f2de))
+		  #Asociatividad
 	- **Dispersos**
+		-
 	- **Energía**
 	- **Identificación**
 	- **Lotes**
