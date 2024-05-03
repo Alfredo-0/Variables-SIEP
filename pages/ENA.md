@@ -1,4 +1,8 @@
 # Encuesta Nacional Agropecuaria ![Documentacion.pdf](../assets/Documentacion-ENA-2019.pdf)
+![boletin_ena_2019.pdf](../assets/boletin_ena_2019_1714603062842_0.pdf) Boletín ENA 2019
+![met-ENA-mar2023.pdf](../assets/met-ENA-mar2023_1714606822822_0.pdf)
+- ### Preguntas Cuestionario
+  collapsed:: true
 	- **Cosechas**
 	- **Cultivos**
 	- **Dispersos**
@@ -7,13 +11,11 @@
 	- **Lotes**
 	- **Productor**
 	- **Uso del suelo**
-	-
-- ![boletin_ena_2019.pdf](../assets/boletin_ena_2019_1714603062842_0.pdf) Boletín ENA 2019
-  ![met-ENA-mar2023.pdf](../assets/met-ENA-mar2023_1714606822822_0.pdf)
-	- **INDICADORES**
-	- *Indicadores generales metodología*
-	  ((6632d327-f8be-4d70-90bb-a3ddc6bd4f3e))
-	- ((6632c56d-3e65-4150-a787-b34ae8b928f5))
+- **INDICADORES**
+  collapsed:: true
+	- **Indicadores generales metodología**
+	- ((6632d327-f8be-4d70-90bb-a3ddc6bd4f3e))
+	  ((6632c56d-3e65-4150-a787-b34ae8b928f5))
 	  ((6632c5bc-dc6a-46f0-855b-60f32d132203))
 	  ((6632c62d-24db-4568-878e-cab7a470c0be))
 	  ((6632c6b1-b317-407b-b2be-f9f5b555fd91))
@@ -50,6 +52,3 @@
 	  ((6632cd80-a2a4-4c84-a0f2-da948649d119))
 	  ((6632cdaf-658c-42bf-b49b-201287505fbb))
 	  #[[Asociatividad]]
--
--
--

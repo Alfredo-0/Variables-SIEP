@@ -1,12 +1,16 @@
 # Encuesta Nacional de Calidad de Vida ![Documentacion.pdf](../assets/Documentacion-ECV-2023.pdf)
-Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Información Estadística de Economía Popular:
+![bol-ECV-2023.pdf](../assets/bol-ECV-2023_1714613316783_0.pdf)
+- ### Preguntas Cuestionario
+  collapsed:: true
 	- **Datos de la vivienda**
+	  collapsed:: true
 		- ((663305e2-5fd3-4f87-9134-d535b95aea81))
 		  ((663305f1-e7f8-44c8-a952-d012534afbc5))
 		  #Comunidad
 		- ((6633063f-0461-4136-aba3-32455bc841b9))
 		  #Informalidad
 	- **Servicios del hogar**
+	  collapsed:: true
 		- ((6633087a-6312-4a9c-8a0d-75532bcb8bfc))
 		  ((66330895-b925-4fca-949d-06bd13d9fa14))
 		  #Informalidad
@@ -20,10 +24,12 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  ((66330807-6b3f-4c50-a80f-dcfa4d9d6db0)) de comercio, industriales, de servicios, agropecuarias
 		- #[[Reproducción Ampliada de la vida]]
 	- **Tenencia y financiación de la vivienda que ocupa el hogar**
+	  collapsed:: true
 		- ((663308c7-0560-4d67-bbf0-d299a39d9108)) propia, totalmente pagada, proptia, la estan pagando, arriendo, con permiso del propietario, posesión sin título, propiedad colectiva.
 		- ((663308dc-21a0-451b-b8f5-d8ea33b93efd))
 		  ((66330918-cf1c-4591-9d14-ce97eb7d3968))
 	- **Condiciones de vida del hogar y tenencia de bienes**
+	  collapsed:: true
 		- ((66330970-9860-4a3d-bf8e-e7e69179413c))
 		  ((6633097a-172d-4672-9032-fbecc830ddbd))
 		  ((663309df-70fc-4a35-beb2-e045a3453b19)) Familias en acción, adultos mayores, ingreso solidario, otro
@@ -45,6 +51,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 			- ((66330bc9-93dd-4902-9768-88a344bbb097))
 			- ((66330bdd-e58a-437c-8bb4-fa8751685e12))
 	- **Caracteristicas y composición del hogar**
+	  collapsed:: true
 		- ((66330c9e-fb30-41a3-9ea7-e8f23d68757a))
 		  ((66330c8b-2ccc-4047-a640-9967f80996e3))
 		  ((66330cc5-eb3b-4b7b-8042-3a28172c6137))
@@ -64,6 +71,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  ((66330d92-7f2c-4df8-adee-9d299e9b1ab2))
 		  #[[Reproducción Ampliada de la vida]]
 	- **Salud**
+	  collapsed:: true
 		- ((66330db0-40d9-442d-b7aa-ef3eaf2fbd66))
 		  ((66330db6-4336-4586-94e0-67abfa6d0566))
 		  ((66330dbf-e703-4b6c-9d45-3a0555052e2b))
@@ -77,6 +85,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  ((66330e82-23de-4033-9631-e500c0c98612))
 		  #[[Reproducción Ampliada de la vida]] #[[No Mercantil]]
 	- **Atención integral de los niños y niñas menores de 5 años**
+	  collapsed:: true
 		- ((66330ebf-9217-4a39-b8be-e2479ce92a32))
 		  ((66330ec5-4c9d-4581-b13f-d50269782bb2))
 		  ((66330ece-929f-496e-af4e-e1e1aabc6cc0))
@@ -85,6 +94,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		- ((66330f49-fd13-4a15-b6a6-489da1cbcd9b)) leer, contarle cuentos, cantar, realizar actividades artísticas, tocar música, realizar juegos, salir al parque, ver tv, hacer una actividad deportiva, juegos con dispositivos electrónicos, otras.
 		- #[[Reproducción Ampliada de la vida]]
 	- **Educación**
+	  collapsed:: true
 		- ((6633a546-18c6-401e-b677-49d25964bdcf))
 		   #[[No Mercantil]]
 		- ((6633a58d-41ef-414c-b85e-11d63d3d45c1))
@@ -96,6 +106,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		- ((6633a53a-4b78-4892-8765-4a3c4bd02fb1))
 		  #Comunidad
 	- **Fuerza de trabajo**
+	  collapsed:: true
 		- ((6633a613-4e7c-4e35-b3fa-8031ba9fc31f))
 		  ((6633a61b-17a3-4e31-b0a7-3a4e31894ebb))
 		  ((6633a629-8af4-4a96-abd7-a71aa51a1819))
@@ -134,6 +145,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 		  #Comunidad #[[No Mercantil]]
 		-
 	- **Tecnologías de información y comunicación**
+	  collapsed:: true
 		- Para cuales de los siguientes servicios o actividades utiliza ____ internet:
 			- ((662f9997-a31a-4feb-8875-56a4273f8b12))
 			  #[[Reproducción Ampliada de la vida]]
@@ -148,7 +160,7 @@ Se tuvieron en cuenta los siguientes módulos relevantes para el Sistema de Info
 			- ((6633ace2-aee4-40a5-9218-cab1b5ad434c))
 			  ((6633acf3-6bb8-465b-8f9c-403736d688c7))
 			  #Comunidad
-- **INDICADORES**
-  ![bol-ECV-2023.pdf](../assets/bol-ECV-2023_1714613316783_0.pdf)
+- ### Indicadores
+  collapsed:: true
 	- ((6632ecce-356e-4bc1-942b-82aa2dda74bd))
 	  #[[No Mercantil]]

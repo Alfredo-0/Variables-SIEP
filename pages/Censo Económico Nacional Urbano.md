@@ -3,8 +3,10 @@
 ![CE Cuestionario Vendedores Calle.pdf](../assets/CE_cuestionariovendedores_calle.pdf)
 ![PlanGeneral CENU.pdf](../assets/PlanGeneral_CENU_1714417394656_0.pdf)
 ![Plan General - Censo Económico-02082023.pdf](../assets/Plan_General_-_Censo_Económico-02082023_1714424439479_0.pdf) (Versión anterior)
-- ### **Preguntas cuestionario CENU**
+- ### Preguntas cuestionario CENU
+  collapsed:: true
 	- **Cuestionario Básico a Establecimientos:**
+	  collapsed:: true
 		- ((662f405c-6d06-4df4-8a7b-dfd5d7c82f15))
 		  ((662f4084-b30d-46be-90a8-b06f687ec11e))
 		  ((662f408d-1663-4433-a865-b472d71a9d40))
@@ -25,6 +27,7 @@
 		  ((662f42b7-5aab-482b-8f35-3fe0a62f0289))
 		  #Comunidad
 	- **Cuestionario Vendedores de Calle:**
+	  collapsed:: true
 		- ((662f433d-a4a9-46e1-8f07-5fd5297a9bda))
 		  #[[Baja Escala]]
 		- ((662f422e-953b-4846-bccb-7496a2267668))
@@ -45,7 +48,7 @@
 		  #Informalidad
 		- ((662f4354-d75b-494c-9f53-2f5261241a85))
 		  #Asociatividad
-- ### **Indicadores CENU**
+- ### Indicadores CENU
   id:: 662fe498-ac3a-4cb3-82a0-681e7aa6183d
   collapsed:: true
 	- ((662fefa2-99f1-4d4c-8603-9661dc841196))

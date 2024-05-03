@@ -2,7 +2,7 @@
 ![bol-EMICRON-IVTrim2023.pdf](../assets/bol-EMICRON-IVTrim2023_1714518559613_0.pdf) Boletín EMICRON
 ![bol-imie-2022.pdf](../assets/bol-imie-2022_1714522299850_0.pdf) Boletín IMEI
 ![DSO-EMICRON-MET-001.pdf](../assets/DSO-EMICRON-MET-001_1714525407046_0.pdf) Metodología EMICRON
-- ### Preguntas cuestionario EMICRON
+- ### Preguntas cuestionario
   collapsed:: true
 	- **Identificación**
 	  collapsed:: true
@@ -145,7 +145,7 @@
 		  ((6632f743-bee2-4f71-b990-6465d3b2f7d4))  Comercialización, Financiamiento, Seguridad, Capacitación , representación frente al estado, cobertura de riesgos, beneficios sociales
 		  ((6632f75a-c1f2-441c-8a77-5d1eb1696285))
 		  #Asociatividad
-- **INDICADORES**
+- ### Indicadores
   collapsed:: true
 	- ((66317b29-7ab7-4c4e-af78-83abb10d3b26))
 	  ((66317bc9-0952-4e8a-88c6-36bcfbdabdc5))

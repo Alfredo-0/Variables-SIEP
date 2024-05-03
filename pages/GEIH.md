@@ -88,7 +88,7 @@
 	  collapsed:: true
 		- ((662f3797-048d-44b6-bee6-16a192c72256))
 		  #Comunidad
-- ### Indicadores GEIH
+- ### Indicadores
   collapsed:: true
 	- ((66300f22-d15a-4f36-bae4-9ffe96746f74))(Población en edad de trabajar)
 	  id:: 663117e6-3701-4bb9-8361-1d3edcfd4901
