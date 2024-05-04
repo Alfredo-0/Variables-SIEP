@@ -5,7 +5,6 @@
   ![dic-brecha-salarail-genero-2022-v3.pdf](../assets/dic-brecha-salarail-genero-2022-v3_1714614711789_0.pdf) Brecha de Género
   ![Ficha metodologica RELAB.pdf](../assets/Ficha_metodologica_RELAB_1714618150735_0.pdf) Ficha metodológica
 - ### Indicadores
-  collapsed:: true
 	- **Demografía empresarial**
 	  collapsed:: true
 	  Demografía y dinámica empresarial: Tiene como objetivo presentar indicadores de las empresas activas formales en Colombia, para cumplir con los estándares internacionales de la OCDE,  EUROSTAT, entro otros se aplican criterios de exclusión sobre las unidades de análisis.
