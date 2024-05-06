@@ -1,7 +1,7 @@
 ### Operaciones Estadísticas
 	- **Encuestas**
 		- [[GEIH]]
-			- Pobreza monetaria
+			- [[Pobreza monetaria]]
 		- [[EMICRON]]
 		- [[ECV]]
 		- [[ENUT]]

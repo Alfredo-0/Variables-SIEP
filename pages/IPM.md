@@ -1,1 +1,6 @@
 - ![Captura de pantalla 2024-05-03 191117.png](../assets/Captura_de_pantalla_2024-05-03_191117_1714781506822_0.png)
+	- #Educación
+	- #[[Niñez y juventud]]
+	- #Salud
+	- #Trabajo
+	- #Vivienda
