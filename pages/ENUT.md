@@ -50,7 +50,29 @@
 		- ((663908c0-2891-40c8-9f6b-e10d975171e0)) obrero de empresa, obrero del gobierno, empleado doméstico, peón, trabajador por cuenta propia, patrón, trabajador sin remuneración
 		  ((663908cf-d4e6-442e-8617-071fc57c534b))
 		  ((663908d7-d949-456a-a288-1da01dc851d0))
+		  ((663919d0-3d7d-42fb-88a5-733ce8ab59e9)) 
 		  #Trabajo
+		- ((66391aa7-2140-4b64-8306-1fe526fdb0b7))
+		  #Comunidad
+		- ((66391ad2-3ddd-494a-989b-e53984d2165f))
+		  ((66391ae5-8525-46ee-93b0-4ca271ebc76d))
+		  #[[No Mercantil]]
+	- **Uso del tiempo**
+		- ((66391b0d-a2d7-48eb-be8e-68a692f56625))
+		  ((66391b49-cd7c-489c-9070-bf517bd2d6ae))
+		  ((66391b4e-2707-4d85-b0c1-4e83b28bdebb))
+		  ((66391fab-082c-4030-b1b6-c9f462e48586))
+		  ((66391fd5-e98e-4866-9dd8-dcd2a7731f37))
+		  ((66392003-86dd-485b-87ff-4fc5b198aed2))
+		  ((66392008-8f74-44ff-80e9-c05a4791b6cc))
+		  ((66392020-859c-4205-bf46-b6fabb01746c))
+		  ((6639202e-e212-41a7-9b8c-b17e527b76c2))
+		  ((663920c8-6165-4c2d-aabd-e6a1c3a4d58b))
+		  ((663920d6-5cbb-4e35-9db5-4dbf1140f206))
+		  ((663920f3-b2ab-46bd-96df-04b946db07af))
+		  #[[No Mercantil]] #Comunidad
+		- ((66392126-4052-405d-b738-45b8ff79cfc8))
+		  #[[Trabajo domestico]] ((66392143-1999-4e8f-8ebb-b6994a8d2244))
 - ### Indicadores
   collapsed:: true
 	- ((6631a941-f4fc-4993-81ac-7afe2b4f455e))

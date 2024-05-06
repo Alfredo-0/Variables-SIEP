@@ -182,3 +182,99 @@ file-path:: ../assets/ENUT_Cuestionario_1714664196638_0.pdf
   hl-page:: 30
   hl-color:: blue
   id:: 663908d7-d949-456a-a288-1da01dc851d0
+- Además del salario en dinero, ¿…. el mes pasado recibió:
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: blue
+  id:: 663919d0-3d7d-42fb-88a5-733ce8ab59e9
+- Durante los últimos 12 meses, ¿… recibió:
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: blue
+  id:: 663919e0-dd0c-4308-8c8a-d2fa2f3a2dc8
+  hl-stamp:: 1715018213678
+- El día [...], ¿… trabajó o le colaboró a alguien en algún empleo o negocio?
+  ls-type:: annotation
+  hl-page:: 36
+  hl-color:: yellow
+  id:: 66391aa7-2140-4b64-8306-1fe526fdb0b7
+- El día [...], ¿cuáles de las siguientes actividades de cuidado personal realizó…?:
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: purple
+  id:: 66391ad2-3ddd-494a-989b-e53984d2165f
+- El día [...], ¿cuáles de las siguientes actividades de suministro de alimentos realizó… sin que le pagaran?:
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: purple
+  id:: 66391ae5-8525-46ee-93b0-4ca271ebc76d
+- USO DEL TIEMPO
+  ls-type:: annotation
+  hl-page:: 43
+  hl-color:: red
+  id:: 66391b0d-a2d7-48eb-be8e-68a692f56625
+- El día [...], ¿cuáles de las siguientes actividades de mantenimiento de vestuario realizó… sin que le pagaran?
+  ls-type:: annotation
+  hl-page:: 44
+  hl-color:: red
+  id:: 66391b49-cd7c-489c-9070-bf517bd2d6ae
+- El día [...], ¿cuáles de las siguientes actividades de limpieza y mantenimiento realizó… sin que le pagaran?:
+  ls-type:: annotation
+  hl-page:: 44
+  hl-color:: red
+  id:: 66391b4e-2707-4d85-b0c1-4e83b28bdebb
+- El día [...], ¿cuáles de las siguientes actividades de construcción o reparación realizó… sin que le pagaran?
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: red
+  id:: 66391fab-082c-4030-b1b6-c9f462e48586
+- El día [...], ¿cuáles de las siguientes actividades de compras y administración de este hogar realizó… sin que le pagaran?:
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: yellow
+  id:: 66391fd5-e98e-4866-9dd8-dcd2a7731f37
+- El día [...], sin que por ello le pagaran, ¿a qué persona(s) de este hogar… acompañó a citas médicas, odontológicas, urgencias, terapias, exámenes u otras atenciones en salud?
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 66392003-86dd-485b-87ff-4fc5b198aed2
+- El día [...], ¿cuáles de las siguientes actividades de apoyo a las personas de su hogar realizó… sin que le pagaran?
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 66392008-8f74-44ff-80e9-c05a4791b6cc
+- ¿Cuáles de las siguientes actividades realizó… para otros hogares sin que le pagaran?:
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 66392020-859c-4205-bf46-b6fabb01746c
+- El día […], sin que por ello le pagaran, ¿… realizó trabajos comunitarios, participó en reuniones de asociaciones o hizo voluntariado?
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 6639202e-e212-41a7-9b8c-b17e527b76c2
+- ¿Cuáles de las siguientes actividades comunitarias o de voluntariado realizó… ?: 
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 663920c8-6165-4c2d-aabd-e6a1c3a4d58b
+- El día […], sin que por ello le pagaran, ¿… plantó, cosechó, cuidó animales o realizó otras actividades agropecuarias o de minería, para beneficio de este hogar?
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 663920d6-5cbb-4e35-9db5-4dbf1140f206
+- ¿Cuáles de las siguientes actividades realizó… sin que le pagaran para este hogar?
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 663920f3-b2ab-46bd-96df-04b946db07af
+- Con respecto a las tareas domesticas y de cuidado en su hogar… considera que:
+  ls-type:: annotation
+  hl-page:: 66
+  hl-color:: blue
+  id:: 66392126-4052-405d-b738-45b8ff79cfc8
+- Considera … que durante el día…:
+  ls-type:: annotation
+  hl-page:: 66
+  hl-color:: blue
+  id:: 66392143-1999-4e8f-8ebb-b6994a8d2244
