@@ -1,7 +1,8 @@
-### Operaciones Estadísticas
+public:: true
+
+- ### Operaciones Estadísticas
 	- **Encuestas**
 		- [[GEIH]]
-			- [[Pobreza monetaria]]
 		- [[EMICRON]]
 		- [[ECV]]
 		- [[ENUT]]
@@ -16,4 +17,4 @@
 		- [[Directorio Estadístico de Empresas (DEE)]]
 	- **Sistemas de Información**
 		- [[SIECI]]
-- [[IPM]] Pobreza multidimensional
+- [[IPM]] Pobreza multidimensional y [[Pobreza monetaria]]

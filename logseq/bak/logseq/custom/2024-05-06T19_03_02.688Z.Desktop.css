@@ -1,0 +1,3 @@
+.graph-view.colorful-mode .graph-svg .node[data-tags~="informalidad"] {
+  fill: #FF6347; /* This sets the node color to tomato red */
+}

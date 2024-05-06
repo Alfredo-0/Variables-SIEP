@@ -52,9 +52,11 @@
   id:: 662fe498-ac3a-4cb3-82a0-681e7aa6183d
   collapsed:: true
 	- ((662fefa2-99f1-4d4c-8603-9661dc841196))
-	  ((662fefd3-6846-418d-acb2-fb27abdaaa97)) (empresa, establecimiento fijo, semifijo, vivienda con actividad económica, vendedor de calle)((662ff0ca-c482-49f7-8cd8-c7287c7100d9)) (Clasificadas por ubicación y actividad económica)
+	  ((662fefd3-6846-418d-acb2-fb27abdaaa97)) (empresa, establecimiento fijo, semifijo, vivienda con actividad económica, vendedor de calle)
+	  ((662ff0ca-c482-49f7-8cd8-c7287c7100d9))
+	  (Clasificadas por ubicación y actividad económica)
 	  ((662ff151-646a-4de9-81f6-66154c4495c4))
-	  ((662ff3c8-0ab2-4887-8f84-0d1fdfc024a2))
+	  alor total de los costos y gastos de las unidades económicas censadas
 	  ((662ff3db-d2b7-406a-81ce-f92103c2b44c))
 	  ((662ff3ff-101d-4dd8-88c9-b549dd65d47c))
 	  #[[Baja Escala]]
@@ -62,6 +64,7 @@
 	  #Organizaciones_sociales
 	- ((662ff324-fa84-4a1f-9145-41a7d6e254dc))
 	  ((662ff4f5-8247-41f8-bef5-392f93abb6b7))
+	  ((66393a75-b7d7-4197-ae34-66e88556070a))
 	  ((66300b11-4e0f-4a1a-849a-2c2d3447fd71))
 	  ((66300b2b-1751-46e8-9cfa-07e4df75403b))
 	  ((66300b46-9261-40e4-9599-38630d868f2a))

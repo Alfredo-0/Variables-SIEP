@@ -37,11 +37,6 @@ file-path:: ../assets/PlanGeneral_CENU_1714417394656_0.pdf
   hl-page:: 44
   hl-color:: green
   id:: 662ff37e-cdc1-4746-987c-cd1883f2df0b
-- alor total de los costos y gastos de las unidades económicas censadas
-  ls-type:: annotation
-  hl-page:: 44
-  hl-color:: green
-  id:: 662ff3c8-0ab2-4887-8f84-0d1fdfc024a2
 - Valor total de los activos de las unidades económicas censadas
   ls-type:: annotation
   hl-page:: 44
@@ -57,3 +52,8 @@ file-path:: ../assets/PlanGeneral_CENU_1714417394656_0.pdf
   hl-page:: 44
   hl-color:: green
   id:: 662ff4f5-8247-41f8-bef5-392f93abb6b7
+- Valor total de los costos y gastos de las unidades económicas censadas.
+  ls-type:: annotation
+  hl-page:: 44
+  hl-color:: green
+  id:: 66393a75-b7d7-4197-ae34-66e88556070a
