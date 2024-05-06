@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Contents"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,12 +419,13 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/forcesettings {:link-dist 150
- :charge-strength -400
+ :graph/forcesettings {:link-dist 180
+ :charge-strength -1000
  :charge-range 1000}
- :graph/settings {:excluded-pages? true}
+ :graph/settings {:excluded-pages? true
+ :orphan-pages? false}
  :publishing/all-pages-public? true
  :feature/enable-journals? false
- :default-home {:page "Contents"}
+ :default-home {:page "Contenido"}
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false}

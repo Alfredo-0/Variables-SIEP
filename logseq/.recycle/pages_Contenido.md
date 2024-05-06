@@ -1,0 +1,21 @@
+public:: true
+
+- ### Operaciones Estadísticas
+	- **Encuestas**
+		- [[GEIH]]
+			- [[Pobreza monetaria]
+		- [[EMICRON]]
+		- [[ECV]]
+		- [[ENUT]]
+		- [[ENA]]
+	- **Censos**
+		- [[Censo Económico Nacional Urbano]]
+	- **Cuentas Satélite**
+		- [[CSEC-Economía del Cuidado]]
+		- [[CSECC-Cultura y Creativa]]
+	- **Registros Estadísticos**
+		- [[RELAB]]
+		- [[Directorio Estadístico de Empresas (DEE)]]
+	- **Sistemas de Información**
+		- [[SIECI]]
+- [[IPM]] Pobreza multidimensional
