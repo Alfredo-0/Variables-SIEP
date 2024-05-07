@@ -1,2 +1,2 @@
--
--
+- ![anex-PM-NotaMetodologica-2022.pdf](../assets/anex-PM-NotaMetodologica-2022_1715088239924_0.pdf)
+- El DANE utiliza como fuente de información y análisis, la Gran Encuesta de Hogares [[GEIH]] que recoge información para la obtención de indicadores en materia de mercado laboral y pobreza monetaria en Colombia.

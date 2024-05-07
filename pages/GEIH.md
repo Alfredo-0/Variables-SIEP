@@ -11,11 +11,11 @@
 		- ((662f1d0a-721f-4658-9591-67fdcab2ea9e)) 
 		  ((662f222d-e311-4dbd-8efa-909d9437db15))
 		  ((662f1e04-d1f1-4af4-a069-ed38d199ad70)) 
-		  #Comunidad
+		  #Comunidad #Vivienda
 		- ((662f225e-cb56-4ad3-ac57-a4a2527663ee))
 		  ((662f22ad-dbb8-4c1a-af54-eb6730a29634))
 		  ((662f2578-a842-4645-9231-57a996400bf7))
-		  #Informalidad
+		  #Informalidad #Salud
 	- **Ocupados**
 	  id:: 662f0eaf-1856-49f4-8f13-ad49cc459ffa
 	  collapsed:: true
@@ -31,7 +31,7 @@
 		  ((662f3085-3f07-42d2-a9ff-35aedcb58147))
 		  #Asociatividad
 		- ((662f280c-37e2-4aa6-b0c9-d2b8f2ec8d5b))
-		  #[[Baja Escala]]
+		  #[[Baja Escala]] #Trabajo
 		- ((662f28d9-df05-4822-bb39-efecdf5b8566))
 		  ((662f2a58-efe7-48d9-b499-b9970e9ab7d8))
 		  ((662f2a5c-0f78-4ea1-a4b1-784e1d7392af))
@@ -43,7 +43,7 @@
 		  ((662f3003-6166-45c1-bd0c-2acdcbf29b20))
 		  ((662f3034-9459-4aa2-b0fe-670fde3cd34c))
 		  ((662f3073-e0c8-4820-b6a3-335de73024e2))
-		  #[[Reproducción Ampliada de la vida]]
+		  #[[Reproducción Ampliada de la vida]] #Trabajo
 		- ((662f2b01-cc5a-4842-8f80-8485a9ab3dd6))
 		  ((662f2849-60ee-441d-9ce1-6d5d07621b52))
 		  #Comunidad
@@ -53,7 +53,7 @@
 		- ((662f34f6-c037-4fc6-8755-fcebc316683c))
 		  ((662f3525-586b-4bd1-964d-1401482c1e0f))
 		  ((662f3555-9326-411f-af0b-53e1db833257))
-		  #[[No Mercantil]]
+		  #[[No Mercantil]] #Trabajo
 		- ((662f353b-89df-4dae-90d1-0f2a27090417))
 		  #Comunidad
 	- **No Ocupados**
@@ -87,7 +87,7 @@
 	- **Datos del hogar y la vivienda**
 	  collapsed:: true
 		- ((662f3797-048d-44b6-bee6-16a192c72256))
-		  #Comunidad
+		  #Comunidad #Vivienda
 - ### Indicadores
   collapsed:: true
 	- ((66300f22-d15a-4f36-bae4-9ffe96746f74))(Población en edad de trabajar)
@@ -112,4 +112,4 @@
 	  ((66316915-98bb-44a7-b3ee-3e79b6c80f01))
 	  ((66316947-67f2-4da8-aeda-741517ac7784))
 	  ((6631696c-62c7-4133-8197-987f1fc5ef5b))
-	  #[[Logro educativo]]
+	  #[[Logro educativo]] #Educación

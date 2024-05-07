@@ -3,7 +3,6 @@
 ![bol-imie-2022.pdf](../assets/bol-imie-2022_1714522299850_0.pdf) Boletín IMEI
 ![DSO-EMICRON-MET-001.pdf](../assets/DSO-EMICRON-MET-001_1714525407046_0.pdf) Metodología EMICRON
 - ### Preguntas cuestionario
-  collapsed:: true
 	- **Identificación**
 	  collapsed:: true
 		- ((6632d70e-6ea6-4ede-959d-32b366e8c1c5))
@@ -67,7 +66,7 @@
 	  collapsed:: true
 		- ((6632eaa0-ebdc-465d-83cf-f4c376983a88))
 		  ((6632ebbd-354f-4b16-8937-f62ebd1e650a))
-		  #[[Reproducción Ampliada de la vida]]
+		  #[[Reproducción Ampliada de la vida]] #Educación
 		- ((6632eac5-ec91-4ed9-8174-98672cdb5e09))
 		  ((6632eaeb-4282-46ab-b5b1-44b12d3537bf))
 		  ((6632eafb-ba75-43d0-9325-22cccfa2d1f4))
