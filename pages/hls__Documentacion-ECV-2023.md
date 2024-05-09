@@ -166,6 +166,7 @@ file-path:: ../assets/Documentacion-ECV-2023.pdf
   hl-page:: 53
   hl-color:: blue
   id:: 66330bdd-e58a-437c-8bb4-fa8751685e12
+  hl-stamp:: 1715276919674
 - ¿Cómo considera usted la situación económica de su hogar comparada con la de hace 12 meses?
   ls-type:: annotation
   hl-page:: 53
@@ -545,3 +546,86 @@ file-path:: ../assets/Documentacion-ECV-2023.pdf
   hl-page:: 114
   hl-color:: yellow
   id:: 6633acf3-6bb8-465b-8f9c-403736d688c7
+- Clase
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 663d0641-1cbd-4c1f-9545-44b465519074
+- Cantidad de hogares en la vivienda
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 663d07b6-2f2e-4daa-b039-8b32f48be395
+- ¿Pagan en este hogar por la electricidad que consumen?
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 663d0856-436d-4076-bb78-647baa9289a1
+- Pagan en este hogar por el servicio de gas natural conectado a red pública?
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 663d0864-f852-4cf7-a352-42f6400716ff
+- ¿Cómo eliminan principalmente la basura en este hogar?
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 663d08b2-2081-4026-a34e-1c324be2088c
+- Ingreso per-cápita
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: green
+  id:: 663d09b4-ed2b-4dca-a7db-a384c5d45b9e
+  hl-stamp:: 1715276215029
+- Ingreso mensual total de la otra unidad de gasto
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: green
+  id:: 663d09bd-a568-4c37-9245-b04d537a990a
+- Cantidad de personas por hogar
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: green
+  id:: 663d09c9-1b3a-4ca2-b2a3-64ac7e0d3338
+- ¿Qué tipo de contrato de arriendo tiene, verbal o escrito
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: blue
+  id:: 663d0a78-adc4-44c7-aeb7-e5b0452d9eba
+- ¿Cuál es o fue el nivel de educación más alto alcanzado por el padre de...?
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: purple
+  id:: 663d0d92-b53f-408a-baeb-3a461621d343
+  hl-stamp:: 1715277224333
+- ¿Cuál es o fue el nivel de educación más alto alcanzado por la madre de ...?
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: purple
+  id:: 663d0d9d-2792-405c-8715-ea34f16f6acb
+  hl-stamp:: 1715277233503
+- ¿En cuál escalón diría usted que se encuentra parado/a en este momento?
+  ls-type:: annotation
+  hl-page:: 63
+  hl-color:: red
+  id:: 663d0e8b-61e8-48a2-8012-c1ef6a26a8e0
+- ¿cuál es el nivel educativo más alto alcanzado por ... Y el último año o grado aprobado en este nivel?
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: red
+  id:: 663d1105-9a08-420d-b95c-e8a4eeedacc4
+- En qué nivel está matriculado .... y qué grado cursa?
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: green
+  id:: 663d111f-d1ea-4a95-8c97-f559fee4172a
+- Con qué frecuencia utiliza ____ internet (en cualquier lugar y desde cualquier dispositivo)?
+  ls-type:: annotation
+  hl-page:: 108
+  hl-color:: blue
+  id:: 663d171a-85d4-47c3-a709-f0b03c607032
+- En cuales de los siguientes sitios accede ____ a internet:
+  ls-type:: annotation
+  hl-page:: 110
+  hl-color:: blue
+  id:: 663d1804-678b-4632-a9de-312370e17a98

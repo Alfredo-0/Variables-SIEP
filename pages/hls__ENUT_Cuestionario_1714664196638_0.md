@@ -31,6 +31,7 @@ file-path:: ../assets/ENUT_Cuestionario_1714664196638_0.pdf
   hl-page:: 2
   hl-color:: purple
   id:: 6638f04f-957b-4368-a198-d182fa2abf14
+  hl-stamp:: 1715281050759
 - El día [...], ¿este hogar recibió la ayuda no remunerada, de una o más personas de otros hogares para
   ls-type:: annotation
   hl-page:: 3
@@ -278,3 +279,13 @@ file-path:: ../assets/ENUT_Cuestionario_1714664196638_0.pdf
   hl-page:: 66
   hl-color:: blue
   id:: 66392143-1999-4e8f-8ebb-b6994a8d2244
+- De acuerdo con su cultura, pueblo o rasgos físicos, …es o se reconoce como
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 663d1ce0-68d8-41ae-bee2-150081f922cb
+- Usted considera que la comunidad en que vive es campesina?
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: blue
+  id:: 663d1e7a-6e7f-4184-b5c7-bd98fbb85e6f
